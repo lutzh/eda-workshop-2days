@@ -11,6 +11,8 @@
 
 - [Wer Microservices richtig macht, braucht keine Workflow Engine und kein BPMN](https://www.codecentric.de/wissens-hub/blog/wer-microservices-richtig-macht-braucht-keine-workflow-engine-und-kein-bpmn) - Codecentric Blog!
 
+- [Talk mit den Slides BPMN -> Events](https://youtu.be/9guR3CBTG44?si=cmy2P5SZoBNHRIgC)
+
 ## Queue vs. Kafka
 
 - [Unterschiede - s. Slide 36](https://speakerdeck.com/hermes/kafka-ist-nicht-nur-ein-autor?slide=36)
